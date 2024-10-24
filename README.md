@@ -4,4 +4,6 @@
 # Программы Шифрования и Дешифрования
 # Результат работы
 
-![Math for program 4](https://github.com/user-attachments/assets/7e92435a-d094-4e65-9cf3-cb4903f09eb5)
+https://github.com/user-attachments/assets/78b9a07d-5159-486f-837a-0eb1ac43fcf1
+
+
